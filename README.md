@@ -1,5 +1,5 @@
 Aywer, small indie developer from Poland
-C++, JavaScript, C#, HTML
+- C++, JavaScript, C#, HTML
 
 Also intrested in: Music, Video Editing, Astronomy, Chess
 
