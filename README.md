@@ -3,7 +3,7 @@ Aywer, small indie developer from Poland
 
 Also interested in: Music, Video Editing, Astronomy, Chess
 
-- Games in progress: 2
-- Projects in progress: 0
+- Games in progress: 3
+- Projects in progress: 1
 
 My website: https://aywergamedev.carrd.co/
