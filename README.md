@@ -5,9 +5,11 @@ I mostly use Unity and C#, but I also do some stuff in JavaScript & I'm learning
 
 ## My Proudest Work
 - [Giant Enemy Spider](https://ayywer.itch.io/giant-enemy-spider) 
+
 Dynamic First Person Shooter where you have to fight with huge spider while dodging his attacks.
 
 - [Mechaidle](https://ayywer.itch.io/mechaidle) 
+
 Minimalistic 2D tower defence game with robotic theme. Build machines and robots to defend your base. Still in early development.
 
 ## My Upcoming Games
