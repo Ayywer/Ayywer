@@ -6,7 +6,8 @@ I mostly use Unity and C#, but I also do some stuff in JavaScript & I'm learning
 ## My Proudest Work
 - [Giant Enemy Spider](https://ayywer.itch.io/giant-enemy-spider) 
 
-Dynamic First Person Shooter where you have to fight with huge spider while dodging his attacks.
+Giant Enemy Spider is a dynamic FPS game where you’re locked inside an abandoned factory to face a gigantic spider.
+Choose your weapon, dodge his deadly attacks, and bring him down.
 
 - [Mechaidle](https://ayywer.itch.io/mechaidle) 
 
