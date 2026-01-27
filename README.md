@@ -1,6 +1,6 @@
 ## About Me
 Hi! I'm Aywer. I'm aspiring game developer and programmer from Poland 🇵🇱. I do my work solo or in small team called "Decent Salad Games".
-I mostly use Unity and C#, but I also do some stuff in JavaScript & I'm learning c++.
+I mostly use Unity and C#, but I also do some stuff in JavaScript & I'm learning C++.
   
 
 ## My Proudest Work
